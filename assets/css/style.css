@@ -812,6 +812,10 @@ section {
   transition: 0.3s;
 }
 .event-list .card-text {
+  font-size: 30;
+  font-style: italic;
+  padding: 0;
+  margin: 0 0 20px 0;
   color: #5e5e5e;
 }
 .event-list .read-more a {
@@ -833,6 +837,38 @@ section {
 .event-list .card:hover .card-body .card-title a {
   color: #006fbe;
 }
+/*--------------------------------------------------------------
+# Courses
+--------------------------------------------------------------*/
+.Courses .coursename {
+  font-size: 30;
+  padding: 0;
+  margin: 0 0 20px 0;
+  margin-top: -5px;
+  color: #41494C;
+}
+/* .Courses .row{
+  border: 0;
+  padding: 0 -10px;
+  margin-bottom: 60px;
+  position: relative;
+} */
+.Courses .course-body {
+  padding: 15px;
+  margin-top: -25px;
+}
+.Courses .course-body2 {
+  padding: 15px;
+  margin-top: 0px;
+}
+
+.Courses .course-title {
+  font-weight: bold;
+  margin-bottom: 35px;
+  color: black;
+}
+
+
 
 /*--------------------------------------------------------------
 # Gallery
