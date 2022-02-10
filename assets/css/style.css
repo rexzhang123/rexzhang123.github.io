@@ -859,12 +859,12 @@ section {
 }
 .Courses .course-body2 {
   padding: 15px;
-  margin-top: 0px;
+  margin-top: -5px;
 }
 
 .Courses .course-title {
   font-weight: bold;
-  margin-bottom: 35px;
+  margin-bottom: 30px;
   color: black;
 }
 
