@@ -855,9 +855,15 @@ section {
   position: relative;
 } */
 
-.Courses .course-fall22 {
+.Courses .course-spring23 {
   padding: 15px;
   margin-top: -25px;
+  margin-left: 55px;
+}
+
+.Courses .course-fall22 {
+  padding: 15px;
+  margin-top: -5px;
   margin-left: 55px;
 }
 
