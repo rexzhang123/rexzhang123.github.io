@@ -34,11 +34,12 @@ h1, h2, h3, h4, h5, h6 {
 .img-fluid {
   height: auto;
   max-width: 80%;
-  margin-left: 30px;
+  margin-left: 60px;
 }
 
 .col-lg-6.pt-4.pt-lg-0{
-  margin-left:-30px;
+  margin-left: 0px;
+  padding-right: 90px;
 }
 
 .AboutMe{
