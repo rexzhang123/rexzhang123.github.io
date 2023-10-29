@@ -29,8 +29,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .col-lg-6.pt-4.pt-lg-0{
-  margin-left: -30px;
-  padding-right: 10px;
+  margin-left: 0px;
+  padding-right: 15px;
   font-weight: lighter;
   line-height: 28px;
   
