@@ -27,5 +27,5 @@ Welcome to the repository for my personal website, a digital portfolio showcasin
 
 Feel free to open an issue for feedback or suggestions.
 
-🔗 [Visit My Website](<Your-Website-URL>)
+🔗 [Visit My Website](<https://rexzhang123.github.io/>)
 
