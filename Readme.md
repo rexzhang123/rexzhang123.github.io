@@ -1,13 +1,31 @@
-# Rex Zhang's Personal Website
+# 🌐 Rex Zhang's Personal Website
 
-Welcome to the repository for my personal website! This website serves as a portfolio where I showcase my experience and connect with others.
+Welcome to the repository for my personal website, a digital portfolio showcasing my journey in Computer Science, Economics, and Mathematics.
 
-## Overview
+## Overview 📌
 
-The website features:
+### What's Inside?
 
-- **About Me:** A section introducing myself and my background.
-- **Projects:** A showcase of my personal and academic projects.
-- **Courses:** Courses I took as an Undergraduate at Emory University
-- **Contact:** Information on how to connect with me.
+- **👤 About Me:** Insights into my background and experiences.
+- **🔍 Projects:** A showcase of my personal and academic work.
+- **📚 Courses:** My academic journey at Emory University.
+- **📬 Contact:** How to connect with me.
+
+### Features 🌟
+
+- **📱 Responsive Design:** Optimized for all devices.
+- **🧭 Easy Navigation:** User-friendly layout.
+- **🔄 Dynamic Content:** Regularly updated with new projects and achievements.
+
+### Repository Use 🛠️
+
+- **Clone:** To get the latest version.
+- **Explore:** Understand the structure and technologies.
+- **Contribute:** Suggestions and improvements are welcome.
+
+## Feedback 📢
+
+Feel free to open an issue for feedback or suggestions.
+
+🔗 [Visit My Website](<Your-Website-URL>)
 
