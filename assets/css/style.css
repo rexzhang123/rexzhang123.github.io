@@ -1,10 +1,3 @@
-/**
-* Template Name: MeFamily - v4.7.0
-* Template URL: https://bootstrapmade.com/family-multipurpose-html-bootstrap-template-free/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -28,23 +21,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-/*-------------------------------------------------------------
-# Added by Rex
---------------------------------------------------------------*/
+
 .img-fluid {
   height: auto;
   max-width: 80%;
-  margin-left: 44px;
+  margin-left: 40px;
 }
 
 .col-lg-6.pt-4.pt-lg-0{
-  margin-left: 0px;
-  padding-right: 90px;
+  margin-left: -30px;
+  padding-right: 10px;
+  font-weight: lighter;
+  line-height: 28px;
+  
 }
 
 .AboutMe{
-  font-size: 35px;
-  margin-bottom: 30px;
+  font-size: 40px;
+  margin-bottom: 35px;
+  font-weight: bold;
 }
 
 
@@ -103,12 +98,6 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
-/*--------------------------------------------------------------
-# Navigation Menu
---------------------------------------------------------------*/
-/**
-* Desktop Navigation 
-*/
 .navbar {
   padding: 0;
 }
@@ -298,7 +287,7 @@ section {
 }
 
 .section-title {
-  margin-top: 50px;
+  margin-top: 20px;
   text-align: center;
   padding-bottom: 30px;
 }
@@ -334,9 +323,7 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# My & Family
---------------------------------------------------------------*/
+
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
@@ -385,9 +372,7 @@ section {
   text-decoration: none;
 }
 
-/*--------------------------------------------------------------
-# Features
---------------------------------------------------------------*/
+
 .features .icon-box {
   margin-bottom: 20px;
   text-align: center;
@@ -442,9 +427,7 @@ section {
   font-size: 14px;
 }
 
-/*--------------------------------------------------------------
-# Recent Photos
---------------------------------------------------------------*/
+
 .recent-photos {
   overflow: hidden;
 }
@@ -493,9 +476,7 @@ section {
   z-index: 1;
 }
 
-/*--------------------------------------------------------------
-# Breadcrumbs
---------------------------------------------------------------*/
+
 .breadcrumbs {
   padding: 15px 0;
   background: #f5f7fb;
@@ -541,9 +522,7 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Story Intro
---------------------------------------------------------------*/
+
 .story-intro .content h3 {
   font-weight: 600;
   font-size: 26px;
@@ -564,9 +543,6 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Featured Members
---------------------------------------------------------------*/
 .featured-members .content + .content {
   margin-top: 100px;
 }
@@ -590,9 +566,6 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Members
---------------------------------------------------------------*/
 .members {
   background: #fff;
   padding: 60px 0;
@@ -655,9 +628,6 @@ section {
   transition: bottom ease-in-out 0.4s;
 }
 
-/*--------------------------------------------------------------
-# Event List
---------------------------------------------------------------*/
 .event-list .card {
   border: 0;
   padding: 0 30px;
@@ -747,9 +717,15 @@ section {
   margin-left: 55px;
 }
 
-.Courses .course-fall23 {
+.Courses .course-spring24 {
   padding: 15px;
   margin-top: px;
+  margin-left: 55px;
+}
+
+.Courses .course-fall23 {
+  padding: 15px;
+  margin-top: -5px;
   margin-left: 55px;
 }
 
@@ -784,11 +760,6 @@ section {
   color: black;
 }
 
-
-
-/*--------------------------------------------------------------
-# Gallery
---------------------------------------------------------------*/
 .gallery .gallery-item {
   margin-bottom: 30px;
 }
