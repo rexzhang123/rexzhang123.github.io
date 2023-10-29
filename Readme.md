@@ -1,4 +1,4 @@
-# [Your Name]'s Personal Website
+Rex Zhang's Personal Website
 
 Welcome to the repository for my personal website! This website serves as a portfolio and blog where I showcase my projects, share my thoughts on various topics, and connect with others.
 
