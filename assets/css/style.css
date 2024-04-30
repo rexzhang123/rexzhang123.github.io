@@ -710,14 +710,14 @@ section {
 .Courses {
   font-size: 17px;
   padding: 15px;
-  margin-top: -5px;
-  margin-left: 55px;
+  margin-top: 5px;
+  margin-left: 20px;
 }
 
 .Courses .preCourse {
   padding: 15px;
   margin-top: 10px;
-  margin-left: 55px;
+  margin-left: 20px;
 }
 
 .Courses .course-title {
