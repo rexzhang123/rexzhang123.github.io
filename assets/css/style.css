@@ -709,47 +709,14 @@ section {
 
 .Courses {
   font-size: 17px;
+  padding: 15px;
+  margin-top: -5px;
+  margin-left: 55px;
 }
 
 .Courses .preCourse {
   padding: 15px;
-  margin-top: -30px;
-  margin-left: 55px;
-}
-
-.Courses .course-spring24 {
-  padding: 15px;
-  margin-top: px;
-  margin-left: 55px;
-}
-
-.Courses .course-fall23 {
-  padding: 15px;
-  margin-top: -5px;
-  margin-left: 55px;
-}
-
-
-.Courses .course-spring23 {
-  padding: 15px;
-  margin-top: -5px;
-  margin-left: 55px;
-}
-
-.Courses .course-fall22 {
-  padding: 15px;
-  margin-top: -5px;
-  margin-left: 55px;
-}
-
-.Courses .course-spring22 {
-  padding: 15px;
-  margin-top: -5px;
-  margin-left: 55px;
-}
-.Courses .course-fall21 {
-  padding: 15px;
-  margin-top: -5px;
+  margin-top: 10px;
   margin-left: 55px;
 }
 
